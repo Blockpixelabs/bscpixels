@@ -10175,12 +10175,33 @@ h3 {
 .image4 {
   position: absolute;
   top: 40px;
-  left: 100px;
+  left: 80px;
 }
-
-
-
-
+.image5 {
+  position: absolute;
+  top: 0px;
+  left: 180px;
+}
+.image6 {
+  position: absolute;
+  top: 40px;
+  left: 180px;
+}
+.image7 {
+  position: absolute;
+  top: 0;
+  left: 220px;
+}
+.image8 {
+  position: absolute;
+  top: 80px;
+  left: 0px;
+}
+.image9 {
+  position: absolute;
+  top: 60px;
+  left: 180px;
+}
 
 .portfolio .portfolio-item {
   cursor: pointer;
