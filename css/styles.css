@@ -10159,7 +10159,7 @@ h3 {
   position: absolute;
   top: 0;
   left: 0;
-  border: 1px solid #000000;
+  border: 0px solid #fbff00;
 }
 .image2 {
   position: absolute;
@@ -10169,8 +10169,8 @@ h3 {
 .image3 {
   position: absolute;
   top: 0;
-  left: 100px;
-  border: 1px solid #000000;
+  left: 80px;
+
 }
 .image4 {
   position: absolute;
@@ -10180,17 +10180,17 @@ h3 {
 .image5 {
   position: absolute;
   top: 0px;
-  left: 180px;
+  left: 160px;
 }
 .image6 {
   position: absolute;
   top: 40px;
-  left: 180px;
+  left: 160px;
 }
 .image7 {
   position: absolute;
   top: 0;
-  left: 220px;
+  left: 200px;
 }
 .image8 {
   position: absolute;
@@ -10200,7 +10200,7 @@ h3 {
 .image9 {
   position: absolute;
   top: 60px;
-  left: 180px;
+  left: 160px;
 }
 
 .portfolio .portfolio-item {
